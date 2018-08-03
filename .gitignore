@@ -2,3 +2,4 @@
 .project
 .classpath
 bin/com/esquel/test/Test.class
+/com/esquel/master/*.class
